@@ -1,0 +1,33 @@
+#title{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 150%;
+    color: rgb(7, 76, 76);
+    background-color: antiquewhite;
+}
+
+.section{
+    text-align: center;
+}
+
+#guessButton{
+    font-style: italic;
+    font-family: cursive;
+}
+
+body{
+    background-image: url("img/flowers.jpg");
+}
+
+#guessResult{
+    background-color: antiquewhite;
+    font-size: larger;
+    font-family: fantasy;
+}
+
+#guesses{
+    background-color: antiquewhite;
+    font-size: larger;
+    font-family: fantasy;
+
+}

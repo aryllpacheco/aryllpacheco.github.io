@@ -1,0 +1,41 @@
+#footer{
+    text-align: center;
+    color: grey;
+    font-size: small;
+}
+
+.information{
+    clear: both;
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+
+#specifics{
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 25px;
+    flex-basis: auto;
+}
+
+#content-img{
+    width: auto;
+    height: 350px;
+    border: 25px;
+    border-color: aquamarine;
+    border-style:ridge;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    text-rendering: auto;
+    font-size: 250%;
+    font-family: cursive;
+    color: mediumpurple;
+    
+}
+
+#background{
+    background-color: rgb(238, 245, 190);
+}
